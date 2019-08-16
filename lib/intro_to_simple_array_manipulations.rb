@@ -5,6 +5,10 @@ end
 
 def using_unshift
   ["Brooklyn", "Queens", "Manhattan", "Bronx"]
-  using_unshift.unshift
+  using_unshift.unshift("Staten Island")
+end
+
+def using_pop
+  
   
 
