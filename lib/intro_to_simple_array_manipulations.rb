@@ -1,3 +1,2 @@
-def using_push
- ["red", "orange", "yellow", "green", "blue", "indigo"]
-end
+using_push = ["red", "orange", "yellow", "green", "blue", "indigo"]
+using.push
