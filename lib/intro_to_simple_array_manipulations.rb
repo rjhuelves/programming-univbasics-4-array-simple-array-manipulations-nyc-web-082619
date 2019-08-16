@@ -1,5 +1,5 @@
 def using_push
-  ["red", "orange", "yellow", "green", "blue", "indigo"]
+  colors_in_the_rainbow = ["red", "orange", "yellow", "green", "blue", "indigo"]
   using_push.push("violet")
 end
 
