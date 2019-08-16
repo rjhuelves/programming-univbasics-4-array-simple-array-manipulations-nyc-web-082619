@@ -41,7 +41,8 @@ def using_flatten (instruments)
   flat_array = instruments.flatten
 end
 
-def using_delete
+def using_delete (instructors)
+  no_offense_steven = instru
   
 end
 
