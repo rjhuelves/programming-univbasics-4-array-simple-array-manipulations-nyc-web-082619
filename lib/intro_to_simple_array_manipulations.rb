@@ -1,6 +1,6 @@
-def using_push
-  colors_in_the_rainbow = ["red", "orange", "yellow", "green", "blue", "indigo"]
-  using_push.push("violet")
+def using_push (array, string)
+  array = ["red", "orange", "yellow", "green", "blue", "indigo"]
+  updated_array = array.push("violet")
 end
 
 def using_unshift
