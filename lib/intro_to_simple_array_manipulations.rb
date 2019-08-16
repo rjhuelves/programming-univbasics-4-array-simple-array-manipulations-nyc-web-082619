@@ -1,3 +1,4 @@
 def using_push
-  ["Red"]
+  ["red", "orange"]
+  using_push.push("yellow")
 end
