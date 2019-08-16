@@ -9,6 +9,8 @@ def using_unshift
 end
 
 def using_pop
+  ["Africa", "Asia", "Europe", "North America", "South America", "Oceania", "Antarctica"]
+  
 end
 
 def pop_with_args
