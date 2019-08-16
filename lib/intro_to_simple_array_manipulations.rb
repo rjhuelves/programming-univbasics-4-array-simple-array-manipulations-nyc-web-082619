@@ -9,9 +9,10 @@ def using_unshift (bouroughs_in_nyc, new_neighborhood)
   updated_array = bouroughs_in_nyc.unshift (new_neighborhood)
 end
 
-def using_pop (continents)
+def using_pop (continents, deleted_string)
   continents = ["Africa", "Asia", "Europe", "North America", "South America", "Oceania", "Antarctica"]
   delted_string = continents.pop
+  
   
 end
 
