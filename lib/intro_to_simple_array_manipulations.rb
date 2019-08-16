@@ -36,7 +36,8 @@ end
 def using_uniq
 end
 
-def using_flatten
+def using_flatten (instruments)
+  flat_array = 
 end
 
 def using_delete
