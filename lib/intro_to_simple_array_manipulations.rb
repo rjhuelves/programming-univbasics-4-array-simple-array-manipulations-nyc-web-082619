@@ -1,2 +1,8 @@
-using_push = ["red", "orange", "yellow", "green", "blue", "indigo"]
-using.push
+def using_push
+  ["red", "orange", "yellow", "green", "blue", "indigo"]
+  using_push.push("violet")
+end
+
+def using_unshift
+  
+
